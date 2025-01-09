@@ -7,8 +7,8 @@ authors:
     Suin Yoon
 affiliations:
     Sogang University
-paper: 
-video: 
+paper: https://github.com/suinY00N/NewSDwebui/blob/main/index.md
+video: https://github.com/suinY00N/NewSDwebui/blob/main/index.md
 code: https://github.com/suinY00N/Thesis.git
 data: 
 ---
