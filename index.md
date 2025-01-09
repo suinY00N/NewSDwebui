@@ -4,7 +4,7 @@ permalink: /
 
 title: A Study on Improving the User Interface (UI) of Stable Diffusion Web UI
 authors:
-    Suin Yoon
+    Suin Yoon
 affiliations:
     Sogang University
 paper: 
